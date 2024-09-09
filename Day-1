@@ -1,0 +1,108 @@
+1.Software engineering is a systematic way of developing softwares, which includes applying all principles that are required, from feasibility study to maintenance.
+Software engineering is important to help build high quality software using the principles as a guide to meet the software requirements and satisfy customer’s needs.
+
+2.  Java
+     Python
+     Artificial Intelligence
+Java:
+Object-oriented programming language
+Widely used for enterprise applications, web services, and mobile apps
+Known for its stability, security, and cross-platform compatibility
+Python:
+Interpreted programming language
+Popular for machine learning, data science, and scientific computing
+Known for its readability, simplicity, and extensive library support
+Artificial Intelligence (AI):
+Field of computer science that focuses on developing machines that can perform human-like tasks
+Includes techniques such as machine learning, deep learning, and natural language processing
+Used in various applications, including image recognition, language translation, and medical diagnosis
+
+3. Requirement gathering
+    Design analysis
+    Implementation
+    System testing 
+    Deployment 
+    Maintenance
+Requirement gathering: Gathering and analyzing requirements from stakeholders to define what the software should do.
+Design analysis: Creating a detailed design of the software architecture, user interface, and data structures.
+Implementation: Writing and testing the code for the software.
+System testing: Testing the entire software system to ensure it meets the requirements and is free of defects.
+Deployment: Installing and configuring the software on the production environment.
+Maintenance: Making changes to the software to fix defects, add new features, or improve performance.
+
+4. Agile methodology has an iterative and flexible development model while water fall is rigid and not flexible
+
+Example of Agile:
+Managing a software project for a startup with rapidly changing market needs.
+
+
+Example of Waterfall:
+Developing a traditional software application for a bank with well-defined user requirements.
+
+5. Software Developer
+Roles:
+Designs, implements, and maintains software applications
+Collaborates with other team members on code development
+Troubleshoots and resolves technical issues
+Responsibilities:
+Writing, reviewing, and testing code
+Ensuring code meets quality standards
+Participating in code reviews and collaborating with QA team
+Maintaining software documentation
+Quality Assurance Engineer (QA)
+Roles:
+Ensures the quality of software products
+Tests and verifies software functionality
+Identifies and reports software defects
+Responsibilities:
+Writing and executing test cases
+Reporting and tracking defects
+Participating in code reviews and providing feedback on code quality
+Working with developers to resolve software issues
+Project Manager
+Roles:
+Plans, manages, and coordinates software development projects
+Estimates project scope, schedule, and budget
+Coordinates communication between stakeholders
+Ensures project goals are met
+Responsibilities:
+Developing project plans and timelines
+Monitoring project progress and reporting to stakeholders
+
+
+6. IDEs: are tools for writing, editing and debugging codes and integrates with version control systems for managing code changes. Eg VScode, Eclipse e.t.c
+Version control:Version control is a system that manages changes to files over time. Ehg. GIT
+
+7. Submission Deadline
+    Client changing requirements e.t.c.
+
+Strategies:
+Agile model, regular reassessment of project goals and timelines.
+
+8. Unit testing: Verifies individual units of code (e.g., functions, classes). Ensures correct functionality of each code unit in isolation.
+Integration testing: Tests how multiple units work together. Verifies correct interaction and data flow between components.
+System testing: Evaluates the overall functionality of the entire system. Simulates real-world scenarios and ensures the system meets requirements.
+Acceptance testing: Performed by end-users or stakeholders. Verifies that the system meets user needs and expectations. Ensures the software is acceptable for use.
+Importance in software quality assurance:
+Unit testing: Detects early-stage errors and ensures modularity.
+Integration testing: Identifies interface issues and ensures components work harmoniously.
+System testing: Validates overall system performance and functionality.
+Acceptance testing: Provides user feedback and ensures the system meets the intended purpose.
+Part 2:
+
+Prompt engineering is asking AI the right questions in order to get the best possible answers, it is important because it helps to avoid getting vague answers and time wastage
+What is a computer instead of how can I use a computer effectively to become better.
+
+
+
+
+
+
+
+
+     
+    
+    
+
+
+
